@@ -1,3 +1,6 @@
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/kartoffeltoby/thermostat-deconz-ha)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/kartoffeltoby/Eurotronic-Spirit-ZigBee-deCONZ-HA)
+
 # Eurotronic Spirit ZigBee deCONZ HA
 
 If you want to controll your Spirit-Thermostats with an external temperature sensor and window open detection it's currently not out of the box possible with the default behavior of the Euronics Spirit ZigBee thermostats in combination with deCONZ and HA.
